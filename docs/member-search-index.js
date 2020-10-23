@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.company","c":"Math","l":"Math()","u":"%3Cinit%3E()"},{"p":"com.company","c":"Math","l":"my_abs(double)"},{"p":"com.company","c":"Math","l":"my_fact(int)"},{"p":"com.company","c":"Math","l":"my_pow(double, int)","u":"my_pow(double,int)"}];updateSearchResults();
